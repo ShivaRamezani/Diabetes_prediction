@@ -1,1 +1,3 @@
 # Diabetes_prediction
+
+Our goal was to utilize three algorithms (XGB, Adaboost, and Neural Netwrok) that have been less studied in previous articles regarding diabetes prediction and get accuracy level better or at least equal to the result of the other algorithms used in the other investigations. By training data, we could achieve accuracy of 81% in both Neural Network and XGB algorithms and 96% in AdaBoost.
